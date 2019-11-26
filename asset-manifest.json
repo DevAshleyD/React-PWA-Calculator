@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-PWA-Calculator/static/css/main.86f680a8.chunk.css",
+    "main.js": "/React-PWA-Calculator/static/js/main.9040c56c.chunk.js",
+    "main.js.map": "/React-PWA-Calculator/static/js/main.9040c56c.chunk.js.map",
+    "runtime-main.js": "/React-PWA-Calculator/static/js/runtime-main.6bd4ba31.js",
+    "runtime-main.js.map": "/React-PWA-Calculator/static/js/runtime-main.6bd4ba31.js.map",
+    "static/css/2.1a743788.chunk.css": "/React-PWA-Calculator/static/css/2.1a743788.chunk.css",
+    "static/js/2.20e3fc3d.chunk.js": "/React-PWA-Calculator/static/js/2.20e3fc3d.chunk.js",
+    "static/js/2.20e3fc3d.chunk.js.map": "/React-PWA-Calculator/static/js/2.20e3fc3d.chunk.js.map",
+    "index.html": "/React-PWA-Calculator/index.html",
+    "precache-manifest.910f932cfd190d2cfa02893cfc6f9393.js": "/React-PWA-Calculator/precache-manifest.910f932cfd190d2cfa02893cfc6f9393.js",
+    "service-worker.js": "/React-PWA-Calculator/service-worker.js",
+    "static/css/2.1a743788.chunk.css.map": "/React-PWA-Calculator/static/css/2.1a743788.chunk.css.map",
+    "static/css/main.86f680a8.chunk.css.map": "/React-PWA-Calculator/static/css/main.86f680a8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bd4ba31.js",
+    "static/css/2.1a743788.chunk.css",
+    "static/js/2.20e3fc3d.chunk.js",
+    "static/css/main.86f680a8.chunk.css",
+    "static/js/main.9040c56c.chunk.js"
+  ]
+}
