@@ -1,8 +1,8 @@
 {
-  "name": "calculator",
+  "name": "react-pwa-calculator",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "http://ahfarmer.github.io/calculator",
+  "homepage": "http://DevAshleyD.github.io/React-PWA-Calculator",
   "devDependencies": {
     "chai": "^4.2.0",
     "gh-pages": "^2.0.1",
